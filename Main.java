@@ -11,10 +11,10 @@ public class Main {
 
       {
           switch (operador) {
-          //    case "+":
+          //*   case "+":
                   MostreResultado = String.valueOf(Float.parseFloat(numero1) + Float.parseFloat(numero2));
                   break;
-              case "-":
+         //*     case "-":
                   MostreResultado =String.valueOf(Float.parseFloat(numero1) - Float.parseFloat(numero2));
                   break;
               case "/":
