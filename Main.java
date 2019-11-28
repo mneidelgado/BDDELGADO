@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
       String numero1=JOptionPane.showInputDialog("Digite o primeiro número:");
       String numero2=JOptionPane.showInputDialog("Digite o segundo número");
-      String operador=JOptionPane.showInputDialog("Digite o operador");
       String MostreResultado = null;
 
       {
